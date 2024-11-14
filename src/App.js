@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Button variant="contained" color="primary">
-        Clique aqui
+        Clique aqui.
       </Button>
     </div>
   );
